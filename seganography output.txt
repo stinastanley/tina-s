@@ -1,0 +1,15 @@
+:: Welcome to Steganography ::
+1. Encode
+2. Decode
+1
+Enter image name(with extension) : C:\Users\HP\Downloads\steg image.jpeg
+Enter data to be encoded : hacker
+Enter the name of new image(with extension) : C:\Users\HP\Downloads\steg image.jpeg
+
+= RESTART: C:/Users/HP/AppData/Local/Programs/Python/Python312/steganography.py
+:: Welcome to Steganography ::
+1. Encode
+2. Decode
+2
+Enter image name(with extension) : C:\Users\HP\Downloads\steg image.jpeg
+Decoded Word :  hacker
